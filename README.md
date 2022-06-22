@@ -1,1 +1,1 @@
-Shell navigation basic
+ #!/bin/bash
